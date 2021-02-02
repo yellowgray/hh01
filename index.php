@@ -6,4 +6,5 @@ $frameList = [
     'Thinkphp',
     'Yii'
     ];
+exit(json_encode($frameList));
 ?>
