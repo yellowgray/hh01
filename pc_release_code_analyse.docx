@@ -1,0 +1,11 @@
+View类的继承关系
+类名：文件路径
+Vtiger_KList_View：modules\Vtiger\views\KList.php
+Vtiger_List_View：modules\Vtiger\views\List.php
+Vtiger_Index_View：modules\Vtiger\views\Index.php
+Vtiger_Basic_View：modules\Vtiger\views\Basic.php
+Vtiger_Footer_View：modules\Vtiger\views\Footer.php
+Vtiger_Header_View：modules\Vtiger\views\Header.php
+Vtiger_View_Controller：includes\runtime\Controller.php
+Vtiger_Action_Controller：includes\runtime\Controller.php
+Vtiger_Controller：includes\runtime\Controller.php
